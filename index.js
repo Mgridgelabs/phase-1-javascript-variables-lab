@@ -4,4 +4,3 @@
 
  let companyCeo = 'Susan Smith';
 
- 
